@@ -1,0 +1,4 @@
+Instructions:
+Adventur2 is a bad text based dungeon that took way to long to make, the way you play adventur is by typing stuff into prompts
+there are two kinds of prompts, prompts you type numbers in, and prompts you type y or n in.
+type the proper stuff in the prompts or your probally gonna die.
